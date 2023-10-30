@@ -1,4 +1,10 @@
 {
   "name": "yarn-pnp-vite-typecheck",
-  "packageManager": "yarn@4.0.1"
+  "packageManager": "yarn@4.0.1",
+  "dependencies": {
+    "@types/node": "^20.8.9",
+    "rollup": "^4.1.5",
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.6"
+  }
 }
